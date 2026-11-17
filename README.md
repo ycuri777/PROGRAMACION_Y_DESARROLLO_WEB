@@ -1,12 +1,5 @@
 # UPRIT Tech Store
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ycuri777/PROGRAMACION_Y_DESARROLLO_WEB)
-
-**Sitio web publicado:** https://uprit-tech-store.onrender.com/
-
-**Despliegue:** pulsa el botón anterior, revisa el servicio `uprit-tech-store` definido en `render.yaml` y confirma **Apply**. Render instalará las dependencias y publicará la aplicación en una URL `https://...onrender.com`.
-
-
 Tienda virtual académica de periféricos y partes de computadora, desarrollada con **Python, Flask y SQLite**. Su identidad visual toma como referencia el logo institucional de la Universidad Privada de Trujillo (UPRIT), con una portada de temática institucional en rojo, blanco y tonos neutros.
 
 ## Capturas reales de la aplicación
@@ -46,7 +39,6 @@ python -m venv .venv
 pip install -r requirements.txt
 python app.py
 ```
-Abre http://127.0.0.1:5000 en tu navegador.
 
 ## Credenciales de demostración
 - **Usuario:** `admin`
@@ -61,8 +53,11 @@ Abre http://127.0.0.1:5000 en tu navegador.
 6. En **Reportes** selecciona un rango de fechas para consultar ingresos, operaciones, unidades vendidas y el detalle de las ventas. Puede imprimir o guardar el reporte en PDF.
 
 ## Configuración antes de publicar en producción
-Configura variables de entorno seguras: `SECRET_KEY`, `ADMIN_USER`, `ADMIN_PASSWORD` y `DATABASE_PATH`. Las credenciales `admin / 123` son solo para demostración académica: cámbialas antes de exponer el panel a internet. Para producción se recomienda HTTPS, contraseñas robustas, protección CSRF, limitación de intentos y almacenamiento persistente para la base de datos.
+se dio configuración de variables de entorno seguras: `SECRET_KEY`, `ADMIN_USER`, `ADMIN_PASSWORD` y `DATABASE_PATH`. Las credenciales `admin / 123` son solo para demostración académica: cámbialas antes de exponer el panel a internet. Para producción se recomienda HTTPS, contraseñas robustas, protección CSRF, limitación de intentos y almacenamiento persistente para la base de datos.
 
----
+## Vitar el sitio
+clic aqui: https://uprit-tech-store.onrender.com/
+
+--
 **Proyecto desarrollado por YIYE AARON CURI ALCANTARA**  
 **26104320**
