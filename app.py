@@ -51,7 +51,7 @@ BASE = """
 </style></head><body><div class="top">TECNOLOGÍA QUE IMPULSA TUS IDEAS · ENVÍOS A TODO EL PERÚ</div>
 <nav class="nav"><div class="navin"><a class="brand" href="{{ url_for('home') }}"><img src="{{ url_for('static',filename='uprit-mark.svg') }}"><span><b>UPRIT TECH STORE</b><small>COMPUTACIÓN & TECNOLOGÍA</small></span></a><div class="links"><a href="{{ url_for('home') }}">Tienda</a>{% if session.get('admin') %}<a href="{{ url_for('dashboard') }}">Administración</a><a href="{{ url_for('reports') }}">Reportes</a><a class="btn light" href="{{ url_for('logout') }}">Salir</a>{% else %}<a href="{{ url_for('login') }}">Acceso admin</a>{% endif %}</div></div></nav>
 {% with messages=get_flashed_messages() %}{% if messages %}<div class="wrap" style="padding-bottom:0">{% for m in messages %}<div class="flash">{{m}}</div>{% endfor %}</div>{% endif %}{% endwith %}
-{{ body|safe }}<footer class="footer"><b>UPRIT TECH STORE</b><br>Universidad Privada de Trujillo · Proyecto académico de desarrollo web<br><br>© 2026 · Flask + Python + SQLite</footer></body></html>
+{{ body|safe }}<footer class="footer"><b>UPRIT TECH STORE</b><br>Proyecto desarrollado por YIYE AARON CURI ALCANTARA<br><br>26104320</footer></body></html>
 """
 
 def page(title, body, **ctx):
