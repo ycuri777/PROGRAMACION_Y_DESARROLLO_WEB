@@ -7,6 +7,16 @@
 
 Tienda virtual académica de periféricos y partes de computadora, desarrollada con **Python, Flask y SQLite**. Su identidad visual toma como referencia el logo institucional de la Universidad Privada de Trujillo (UPRIT), con una portada de temática institucional en rojo, blanco y tonos neutros.
 
+## Capturas reales de la aplicación
+
+Las capturas deben corresponder a la aplicación Flask ejecutándose en el navegador. Se incorporarán aquí después de completar el primer despliegue público, para que las imágenes muestren las pantallas reales y no diseños simulados.
+
+Pantallas que se documentarán:
+1. **Portada y catálogo:** página principal con el catálogo de periféricos y componentes.
+2. **Inicio de sesión:** formulario de acceso administrativo.
+3. **Panel de administración:** gestión de productos e inventario.
+4. **Reporte de ventas:** filtros por fecha, resumen de ingresos y detalle de operaciones.
+
 ## Aplicación funcional
 
 La aplicación se ejecuta como un servicio Flask dinámico. No es una maqueta ni una página estática: el catálogo, el acceso administrativo, el inventario y los reportes funcionan mediante rutas Python y una base de datos SQLite.
@@ -52,4 +62,5 @@ Abre http://127.0.0.1:5000 en tu navegador.
 Configura variables de entorno seguras: `SECRET_KEY`, `ADMIN_USER`, `ADMIN_PASSWORD` y `DATABASE_PATH`. Las credenciales `admin / 123` son solo para demostración académica: cámbialas antes de exponer el panel a internet. Para producción se recomienda HTTPS, contraseñas robustas, protección CSRF, limitación de intentos y almacenamiento persistente para la base de datos.
 
 ---
-Proyecto académico · UPRIT Tech Store · 2026
+**Proyecto desarrollado por YIYE AARON CURI ALCANTARA**  
+**26104320**
