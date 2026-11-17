@@ -50,7 +50,6 @@ python -m venv .venv
 pip install -r requirements.txt
 python app.py
 ```
-
 ## Credenciales de demostración
 - **Usuario:** `admin`
 - **Contraseña:** `123`
