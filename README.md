@@ -66,7 +66,15 @@ python app.py
 se dio configuración de variables de entorno seguras: `SECRET_KEY`, `ADMIN_USER`, `ADMIN_PASSWORD` y `DATABASE_PATH`. Las credenciales `admin / 123` son solo para demostración académica: cámbialas antes de exponer el panel a internet. Para producción se recomienda HTTPS, contraseñas robustas, protección CSRF, limitación de intentos y almacenamiento persistente para la base de datos.
 
 ## Vitar el sitio
-clic aqui: https://uprit-tech-store.onrender.com/
+Clic aqui:
+<h2 align="center">🌐 ACCESO AL SISTEMA WEB</h2>
+
+<p align="center">
+  <a href="https://uprit-tech-store.onrender.com/">
+    <img src="https://img.shields.io/badge/INGRESAR_AL_SISTEMA-CLICK_AQUÍ-red?style=for-the-badge">
+  </a>
+</p>
 --
+
 **Proyecto desarrollado por YIYE AARON CURI ALCANTARA**  
 **26104320**
