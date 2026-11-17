@@ -1,6 +1,6 @@
 # UPRIT Tech Store
 
-[![Deploy to Render]([https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ycuri777/PROGRAMACION_Y_DESARROLLO_WEB](https://uprit-tech-store.onrender.com/))
+[![Deploy to Render](https://uprit-tech-store.onrender.com/))
 
 **Despliegue:** pulsa el botón anterior, revisa el servicio `uprit-tech-store` definido en `render.yaml` y confirma **Apply**. Render instalará las dependencias y publicará la aplicación en una URL `https://...onrender.com`.
 
