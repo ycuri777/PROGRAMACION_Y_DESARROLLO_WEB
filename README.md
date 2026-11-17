@@ -1,6 +1,8 @@
 # UPRIT Tech Store
 
-[![Deploy to Render](https://uprit-tech-store.onrender.com/))
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ycuri777/PROGRAMACION_Y_DESARROLLO_WEB)
+
+**Sitio web publicado:** https://uprit-tech-store.onrender.com/
 
 **Despliegue:** pulsa el botón anterior, revisa el servicio `uprit-tech-store` definido en `render.yaml` y confirma **Apply**. Render instalará las dependencias y publicará la aplicación en una URL `https://...onrender.com`.
 
@@ -9,7 +11,7 @@ Tienda virtual académica de periféricos y partes de computadora, desarrollada 
 
 ## Capturas reales de la aplicación
 
-Las capturas deben corresponder a la aplicación Flask ejecutándose en el navegador. Se incorporarán aquí después de completar el primer despliegue público, para que las imágenes muestren las pantallas reales y no diseños simulados.
+Se han recibido capturas reales del sitio desplegado que muestran la tienda, el inicio de sesión, el panel de administración y los reportes. Estas evidencias están pendientes de cargarse como archivos de imagen al repositorio.
 
 Pantallas que se documentarán:
 1. **Portada y catálogo:** página principal con el catálogo de periféricos y componentes.
