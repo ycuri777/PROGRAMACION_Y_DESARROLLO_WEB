@@ -40,17 +40,7 @@ La aplicación se ejecuta como un servicio Flask dinámico. No es una maqueta ni
 ## Tecnologías
 Python 3.10+, Flask, SQLite, HTML y CSS.
 
-## Instalación y ejecución local
-```bash
-git clone https://github.com/ycuri777/PROGRAMACION_Y_DESARROLLO_WEB.git
-cd PROGRAMACION_Y_DESARROLLO_WEB
-python -m venv .venv
-# Windows: .venv\Scripts\activate
-# macOS/Linux: source .venv/bin/activate
-pip install -r requirements.txt
-python app.py
-```
-## Credenciales de demostración
+## Credenciales para iniciar sesión admin
 - **Usuario:** `admin`
 - **Contraseña:** `123`
 
