@@ -8,10 +8,21 @@ Se han recibido capturas reales del sitio desplegado que muestran la tienda, el 
 
 Pantallas que se documentarán:
 1. **Portada y catálogo:** página principal con el catálogo de periféricos y componentes.
+<p align="center">
+  <img src="portada.png" width="750">
+</p>
 2. **Inicio de sesión:** formulario de acceso administrativo.
+<p align="center">
+  <img src="inicio.png" width="750">
+</p>
 3. **Panel de administración:** gestión de productos e inventario.
+<p align="center">
+  <img src="paneldecontrol.png" width="750">
+</p>
 4. **Reporte de ventas:** filtros por fecha, resumen de ingresos y detalle de operaciones.
-
+<p align="center">
+  <img src="reportes.png" width="750">
+</p>
 ## Aplicación funcional
 
 La aplicación se ejecuta como un servicio Flask dinámico. No es una maqueta ni una página estática: el catálogo, el acceso administrativo, el inventario y los reportes funcionan mediante rutas Python y una base de datos SQLite.
