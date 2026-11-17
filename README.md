@@ -1,5 +1,10 @@
 # UPRIT Tech Store
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ycuri777/PROGRAMACION_Y_DESARROLLO_WEB)
+
+**Despliegue:** pulsa el botón anterior, inicia sesión en Render, revisa el servicio `uprit-tech-store` definido en `render.yaml` y confirma **Apply**. Render instalará las dependencias y publicará la aplicación en una URL `https://...onrender.com`.
+
+
 Tienda virtual académica de periféricos y partes de computadora, desarrollada con **Python, Flask y SQLite**. Su identidad visual toma como referencia el logo institucional de la Universidad Privada de Trujillo (UPRIT), con una portada de temática institucional en rojo, blanco y tonos neutros.
 
 ## Capturas de la aplicación
