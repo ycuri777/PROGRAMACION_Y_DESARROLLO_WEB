@@ -2,7 +2,7 @@
 
 Tienda virtual académica de periféricos y partes de computadora, desarrollada con **Python, Flask y SQLite**. Su identidad visual toma como referencia el logo institucional de la Universidad Privada de Trujillo (UPRIT), con una portada de temática institucional en rojo, blanco y tonos neutros.
 
-## Capturas reales de la aplicación
+## Capturas del sitio UPRIT-TECH
 
 Se han recibido capturas reales del sitio desplegado que muestran la tienda, el inicio de sesión, el panel de administración y los reportes. Estas evidencias están pendientes de cargarse como archivos de imagen al repositorio.
 
@@ -67,7 +67,6 @@ se dio configuración de variables de entorno seguras: `SECRET_KEY`, `ADMIN_USER
 
 ## Vitar el sitio
 clic aqui: https://uprit-tech-store.onrender.com/
-
 --
 **Proyecto desarrollado por YIYE AARON CURI ALCANTARA**  
 **26104320**
