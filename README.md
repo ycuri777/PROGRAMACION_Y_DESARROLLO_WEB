@@ -7,16 +7,9 @@
 
 Tienda virtual académica de periféricos y partes de computadora, desarrollada con **Python, Flask y SQLite**. Su identidad visual toma como referencia el logo institucional de la Universidad Privada de Trujillo (UPRIT), con una portada de temática institucional en rojo, blanco y tonos neutros.
 
-## Capturas de la aplicación
+## Aplicación funcional
 
-### Portada y catálogo de productos
-![Portada UPRIT Tech Store](screenshots/portada.svg)
-
-### Panel administrativo
-![Panel de administración](screenshots/panel.svg)
-
-### Reportes de ventas
-![Reporte de ventas](screenshots/reporte.svg)
+La aplicación se ejecuta como un servicio Flask dinámico. No es una maqueta ni una página estática: el catálogo, el acceso administrativo, el inventario y los reportes funcionan mediante rutas Python y una base de datos SQLite.
 
 ## Funcionalidades
 - Catálogo público de teclados, mouse, monitores, audífonos, memorias RAM, procesadores, tarjetas gráficas, SSD y otros.
